@@ -1,0 +1,16 @@
+[
+{
+  "modid": "potatoclanjetpack",
+  "name": "PotatoClan Jetpack",
+  "description": "The most important mod for any member of the Potato Clan!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["doulospy"],
+  "credits": "doulospy, staticfloat, brdmstr",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
