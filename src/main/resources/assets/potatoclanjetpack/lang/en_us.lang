@@ -1,1 +1,5 @@
+// items
 item.tuberous_jetpack.name=Tuberous Jetpack
+
+// tiles
+tile.solid_potato.name=Solid Potato
