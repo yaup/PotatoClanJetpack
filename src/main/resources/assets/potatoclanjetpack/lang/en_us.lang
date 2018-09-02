@@ -3,3 +3,12 @@ item.tuberous_jetpack.name=Tuberous Jetpack
 
 // tiles
 tile.solid_potato.name=Solid Potato
+tile.compressed_potato1.name=Compressed Potato
+tile.compressed_potato2.name=Doubly Compressed Potato
+tile.compressed_potato3.name=Triply Compressed Potato
+tile.compressed_potato4.name=Quadruply Compressed Potato
+tile.compressed_potato5.name=Quintuply Compressed Potato
+tile.compressed_potato6.name=Sextuply Compressed Potato
+tile.compressed_potato7.name=Septuply Compressed Potato
+tile.compressed_potato8.name=Octuply Compressed Potato
+tile.compressed_potato9.name=Nonuply Compressed Potato

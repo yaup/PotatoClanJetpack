@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "PPP",
+        "PPP",
+        "PPP"
+    ],
+    
+    "key":
+    {
+        "P":
+        {
+            "item": "potatoclanjetpack:solid_potato"
+        }
+    },
+    
+    "result":
+    {
+        "item": "potatoclanjetpack:compressed_potato1",
+        "count": 1
+    }
+}
