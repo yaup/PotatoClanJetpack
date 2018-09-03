@@ -3,14 +3,15 @@ package com.doulospy.potatoclan.items;
 import com.doulospy.potatoclan.Main;
 import com.doulospy.potatoclan.init.ModItems;
 import com.doulospy.potatoclan.util.IHasModel;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
 public class ItemBase extends Item implements IHasModel{
 
-    public ItemBase(String name) {
+    public ItemBase(String name, CreativeTabs creativeTab) {
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(Main.creativeTab);
+        setCreativeTab(creativeTab);
 
         ModItems.ITEMS.add(this);
     }

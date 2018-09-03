@@ -15,4 +15,9 @@ public class PotatoClanTab extends CreativeTabs {
     public ItemStack getTabIconItem() {
         return new ItemStack(ModBlocks.BLOCK_SOLID_POTATO);
     }
+
+    @Override
+    public boolean hasSearchBar() {
+        return true;
+    }
 }

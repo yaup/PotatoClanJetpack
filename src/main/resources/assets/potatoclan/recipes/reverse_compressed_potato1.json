@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "potatoclan:compressed_potato1"
+        }
+    ],
+    "result": {
+        "item": "potatoclan:solid_potato",
+        "count": 9
+    }
+}
