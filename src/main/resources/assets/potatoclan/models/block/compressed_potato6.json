@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "potatoclan:blocks/compressed_potato6"
+    }
+}
