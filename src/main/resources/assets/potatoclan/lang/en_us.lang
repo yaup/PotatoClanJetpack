@@ -12,3 +12,6 @@ tile.compressed_potato6.name=Sextuply Compressed Potato
 tile.compressed_potato7.name=Septuply Compressed Potato
 tile.compressed_potato8.name=Octuply Compressed Potato
 tile.compressed_potato9.name=Nonuply Compressed Potato
+
+// tab
+itemGroup.potatoclan=Potato Clan
