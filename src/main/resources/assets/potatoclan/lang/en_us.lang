@@ -1,5 +1,6 @@
 // items
 item.tuberous_jetpack.name=Tuberous Jetpack
+item.potato_brick.name=Potato Brick
 
 // tiles
 tile.solid_potato.name=Solid Potato
@@ -12,7 +13,7 @@ tile.compressed_potato6.name=Sextuply Compressed Potato
 tile.compressed_potato7.name=Septuply Compressed Potato
 tile.compressed_potato8.name=Octuply Compressed Potato
 tile.compressed_potato9.name=Nonuply Compressed Potato
-tile.potato_brick.name=Potato Brick
+tile.potato_bricks.name=Potato Bricks
 
 // tab
 itemGroup.potatoclan=Potato Clan

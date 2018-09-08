@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "potatoclan:blocks/potato_brick"
+        "all": "potatoclan:blocks/potato_bricks"
     }
 }

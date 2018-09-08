@@ -4,10 +4,10 @@ import com.doulospy.potatoclan.Main;
 import com.doulospy.potatoclan.init.ModMaterials;
 import net.minecraft.block.SoundType;
 
-public class BlockPotatoBrick extends BlockBase {
+public class BlockPotatoBricks extends BlockBase {
 
-    public BlockPotatoBrick() {
-        super("potato_brick", ModMaterials.POTATO_BRICK, Main.creativeTab);
+    public BlockPotatoBricks() {
+        super("potato_bricks", ModMaterials.POTATO_BRICKS, Main.creativeTab);
 
         setSoundType(SoundType.STONE);
         setHardness(2);

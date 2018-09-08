@@ -1,3 +1,6 @@
 {
-  "parent": "potatoclan:block/potato_brick"
+  "parent" : "item/generated",
+  "textures" : {
+    "layer0" : "potatoclan:items/potato_brick"
+  }
 }

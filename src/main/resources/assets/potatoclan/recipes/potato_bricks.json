@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "BB",
+        "BB",
+    ],
+
+    "key":
+    {
+        "B":
+        {
+            "item": "potatoclan:potato_brick"
+        }
+    },
+
+    "result":
+    {
+        "item": "potatoclan:potato_bricks",
+        "count": 1
+    }
+}
