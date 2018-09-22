@@ -1,9 +1,8 @@
 package com.doulospy.potatoclan.init;
 
 import com.doulospy.potatoclan.blocks.BlockPotatoBlocks;
-import com.doulospy.potatoclan.blocks.BlockPotatoBrick;
+import com.doulospy.potatoclan.blocks.BlockPotatoBricks;
 import net.minecraft.block.Block;
-import net.minecraft.block.material.Material;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -26,5 +25,5 @@ public class ModBlocks {
     public static final Block BLOCK_COMPRESSED_POTATO_9 = new BlockPotatoBlocks("compressed_potato9", 9);
 
     // Potato Brick
-    public static final Block BLOCK_POTATO_BRICK = new BlockPotatoBrick();
+    public static final Block BLOCK_POTATO_BRICKS = new BlockPotatoBricks();
 }
