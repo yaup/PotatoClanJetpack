@@ -1,5 +1,6 @@
 package com.doulospy.potatoclan.init;
 
+import com.doulospy.potatoclan.items.ItemPotatoBrick;
 import com.doulospy.potatoclan.items.ItemTuberousJetpack;
 import net.minecraft.item.Item;
 
@@ -10,5 +11,6 @@ public class ModItems {
 
     public static final List<Item> ITEMS = new ArrayList<>();
 
-    public static final Item TUBEROUS_JETPACK = new ItemTuberousJetpack("tuberous_jetpack");
+    public static final Item ITEM_TUBEROUS_JETPACK = new ItemTuberousJetpack("tuberous_jetpack");
+    public static final Item ITEM_POTATO_BRICK = new ItemPotatoBrick();
 }
