@@ -1,6 +1,7 @@
 package com.doulospy.potatoclan;
 
 import com.doulospy.potatoclan.client.PotatoClanTab;
+import com.doulospy.potatoclan.init.ModRecipes;
 import com.doulospy.potatoclan.proxy.CommonProxy;
 import com.doulospy.potatoclan.util.Reference;
 import net.minecraftforge.fml.common.Mod;
@@ -29,7 +30,7 @@ public class Main {
 
     @EventHandler
     public static void init(FMLInitializationEvent event) {
-
+        ModRecipes.init();
     }
 
     @EventHandler
