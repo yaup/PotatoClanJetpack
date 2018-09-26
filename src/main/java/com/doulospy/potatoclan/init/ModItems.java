@@ -11,6 +11,5 @@ public class ModItems {
 
     public static final List<Item> ITEMS = new ArrayList<>();
 
-    public static final Item ITEM_TUBEROUS_JETPACK = new ItemTuberousJetpack("tuberous_jetpack");
     public static final Item ITEM_POTATO_BRICK = new ItemPotatoBrick();
 }
